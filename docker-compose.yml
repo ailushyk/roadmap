@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  web:
+    build:
+      context: "../../"
+      dockerfile: "./apps/roadmap/Dockerfile"
+      args:
+        - PACKAGE_REGISTRY_TOKEN=put-your-token-here
+    ports:
+      - 8080:3000
+    environment:
+      SESSION_SECRET: super-duper-s3cret

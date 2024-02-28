@@ -1,0 +1,24 @@
+{
+  "started": [
+    {
+      "id": "1",
+      "title": "Personal account for every player",
+      "description": "Create your personal account and start playing with your friends.",
+      "voteCount": 0
+    }
+  ],
+  "planned": [
+    {
+      "id": "2",
+      "title": "Refresh Design",
+      "description": "Refresh the design of the game. Make it more modern and attractive.",
+      "voteCount": 0
+    },
+    {
+      "id": "3",
+      "title": "Introducing Cyber Fortress Teams",
+      "description": "Introduce CF Teams. Players can create teams and play together.",
+      "voteCount": 0
+    }
+  ]
+}
